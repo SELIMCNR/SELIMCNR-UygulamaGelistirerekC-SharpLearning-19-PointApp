@@ -1,0 +1,10 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project27\pointapp\pointapp\bin\Debug\pointapp.exe.config
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project27\pointapp\pointapp\bin\Debug\pointapp.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project27\pointapp\pointapp\bin\Debug\pointapp.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project27\pointapp\pointapp\obj\Debug\pointapp.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project27\pointapp\pointapp\obj\Debug\pointapp.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project27\pointapp\pointapp\obj\Debug\pointapp.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project27\pointapp\pointapp\obj\Debug\pointapp.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project27\pointapp\pointapp\obj\Debug\pointapp.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project27\pointapp\pointapp\obj\Debug\pointapp.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project27\pointapp\pointapp\obj\Debug\pointapp.pdb
